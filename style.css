@@ -1,0 +1,81 @@
+body{
+  background-color: #FFB6C1;
+}
+.logo{
+  position: absolute;
+width: 328px;
+height: 198px;
+left: 0px;
+top: 0px;
+}
+.menu{
+  position: absolute;
+  width: 372px;
+  height: 18px;
+  left: 308px;
+  top: 41px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 52px;
+
+  color: #000000;
+
+}
+.menu1{
+  position: absolute;
+width: 124px;
+height: 52px;
+left: 791px;
+top: 41px;
+
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 52px;
+
+color: #000000;
+
+}
+.menu2{
+  position: absolute;
+width: 115px;
+height: 52px;
+left: 1224px;
+top: 41px;
+
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 52px;
+
+color: #000000;
+
+}
+.Titulo{
+  position: absolute;
+width: 500px;
+height: 44px;
+left: 499px;
+top: 254px;
+font-style: normal;
+font-size: 1cm;
+font-weight: normal;
+line-height: 52px;
+text-align: center;
+color: #000000;
+margin-top: auto;
+}
+.Texto{
+  position: absolute;
+width: 1500px;
+font-style: normal;
+font-size: 36px;
+font-weight: 100;
+line-height: 52px;
+text-align: center;
+margin-left: 100px;
+margin-top: 300px;
+color: #000000;
+}
